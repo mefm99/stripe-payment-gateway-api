@@ -55,11 +55,10 @@ To run this project, you will need to add the SecretKey to your appsettings.json
 
 When testing out the Stripe API you got three card numbers to test on. You can set expiration and CVC to what you prefer.
 
-**4242424242424242 :** Successful Payments
-**4000000000009995  :** Failed Payments
-**4000002500003155 :** Required  Authentication 
+**4242424242424242 :** Successful Payments.
+
+**4000000000009995  :** Failed Payments.
+
+**4000002500003155 :** Required  Authentication.
 
 
-# StripePaymentGatewayAPI 
-
-Stripe is a very powerful online payment gateway and it is easy to integrate and implement Stripe to accept payments through an API.
